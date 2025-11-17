@@ -106,7 +106,7 @@ a {
 .Homepage {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-end;
     height: 100vh;
     overflow: hidden;
 }
@@ -276,4 +276,5 @@ button, input, textarea, select, label {
 /* classe reveal non strettamente necessaria (riferimento) */
 .page-shutter.reveal {
   transform: translateY(-100%);
+
 }
