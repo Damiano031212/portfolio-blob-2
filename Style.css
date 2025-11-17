@@ -140,7 +140,7 @@ a {
     align-items: center;
     z-index: 1;
     mix-blend-mode: difference;
-    margin-bottom: 60px;
+    margin-bottom: 120px;
 }
 
 .space {
@@ -279,4 +279,5 @@ button, input, textarea, select, label {
   transform: translateY(-100%);
 
 }
+
 
